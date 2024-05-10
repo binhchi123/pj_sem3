@@ -1,0 +1,108 @@
+﻿@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "Home Page";
+    bool isLoggedIn = (ViewContext.HttpContext.Session.GetString("IsLoggedIn") == "true");
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <main id="main" class="mt-5">
+        <!-- menu -->
+        <!-- main1 -->
+        <!-- banner -->
+        <img class="img" src="~/image/mobie1.jpg" alt="">
+        <!-- end banner -->
+        @if (!isLoggedIn)
+        {
+            <div class="container plans col-md-8">
+                <div class="data">
+                    <p>
+                        <a href="">Home</a><i class="fas fa-arrow-right"></i><a href="">Mobile service</a><i class="fas fa-arrow-right"></i>
+                        <a href="" class="active">Data package</a>
+                    </p>
+                </div>
+                <div class="menu text-center mt-5">
+                    <ul>
+                        <li><a asp-action="Index">All</a></li>
+                        @foreach (var ser in ViewBag.ServiceProviderId)
+                        {
+                            <li><a asp-action="Index" asp-route-ServiceProviderId="@ser.ServiceProviderId">@ser.ServiceName</a></li>
+                        }
+                    </ul>
+                </div>
+                <hr>
+                <div class="row">
+                    @foreach (var plan in Model)
+                    {
+                        <div class="col-md-4 mt-4">
+                            <div class="card">
+                                <div class="card-header card-index text-center">
+                                    <a asp-action="Details" asp-route-id="@plan.RechargePlanId" class="name">@plan.RechargePlanName</a>
+                                </div>
+                                <div class="card-body re-plans">
+                                    <h5 class="card-title"></h5>
+                                    <p class="price"><i class="far fa-money-bill-alt mr-4"></i>@plan.RechargePlanPrice đ</p>
+                                    <span class="card-text plan"><i class="fas fa-coins mr-4"></i>@plan.RechargePlanData GB/</span><span class="card-text plan">@plan.RechargePlanValidity day</span>
+                                    <div class="text-center">
+                                        <a asp-controller="Account" asp-action="Login" class="btn sub">Subscribe</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+            <!-- end menu -->
+        }
+        <!-- Main -->
+        <div class="main2 mt-5">
+            <div class="container mt-5">
+                <h3>Do you know?</h3>
+                <ul class="timeline">
+                    <li class="timeline">
+                        <div class="icon done"><i class="bi bi-check-circle"></i></div>
+                        <details class="panel">
+                            <summary>1.How does online mobile recharge work?</summary>
+                            <p>Online mobile recharge works through various digital platforms or mobile apps that have partnered with mobile service providers.</p>
+                        </details>
+                    </li>
+                    <li class="timeline">
+                        <div class="icon done"><i class="bi bi-check-circle"></i></div>
+                        <details class="panel">
+                            <summary>2.What are the benefits of online mobile recharge?</summary>
+                            <p>Online mobile recharge offers several benefits compared to traditional offline recharge methods. Here are some key advantages: Convenience, 24/7 Availability, Wide Range of Options, Instant Recharge, ...</p>
+                        </details>
+                    </li>
+                    <li class="timeline">
+                        <div class="icon working"><i class="bi bi-check-circle"></i></div>
+                        <details class="panel">
+                            <summary>3.Which online platforms offer mobile recharge services?</summary>
+                            <p>Official Mobile Service Provider Websites/Apps: Most major mobile service providers have their official websites or mobile apps that allow customers to recharge their mobile numbers online. For example, AT&T, Verizon, Airtel, Vodafone, Jio, etc., all have their dedicated platforms for online mobile recharge.</p>
+                        </details>
+                    </li>
+                    <li class="timeline">
+                        <div class="icon"><i class="bi bi-check-circle"></i></div>
+                        <details class="panel">
+                            <summary>4.How long does it take for an online mobile recharge to be processed?</summary>
+                            <p>The time taken to process an online mobile recharge can vary depending on several factors, including the platform you use and the mobile service provider. However, in most cases, online mobile recharges are processed almost instantly or within a few minutes.</p>
+                        </details>
+                    </li>
+                    <li class="timeline">
+                        <div class="icon"><i class="bi bi-check-circle"></i></div>
+                        <details class="panel">
+                            <summary>5.What are the different payment options available for online mobile recharge?</summary>
+                            <p>Online mobile recharge platforms offer a variety of payment options to cater to different user preferences and convenience. The specific payment options available may vary depending on the platform or mobile service provider. </p>
+                        </details>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- end -->
+    </main>
+    <!-- end menu -->
+</body>
+</html>

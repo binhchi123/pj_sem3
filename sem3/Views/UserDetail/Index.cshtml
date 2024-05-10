@@ -1,0 +1,99 @@
+﻿@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "UserDetail";
+    var userName = ViewContext.HttpContext.Session.GetString("UserName");
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="~/css/user-detail.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="left-block">
+        <div class="">
+            <div class="row mx-lg-5 Container1">
+                <div class="col-md-4 Wallet">
+                    <p class="heading-text" style="color:black"> 5G Trial</p>
+                    <p class="sub-text" style="font-size:16px;"> Unlimited </p>
+                    <h2 class="price-text"> @ViewBag.userDetails.Phone </h2>
+                    <p class="heading-text" style="color:#696868;margin-top:-0.5em;"> @ViewBag.userDetails.ServiceProvider.ServiceName </p>
+                    <p class="sub-text" style="margin-top:1em;color:#69B5B9;font-weight:bold;"> Check Usage </p>
+                </div>
+                <div class="col-md-6 MyPlans">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p class="heading-text"> My Plans </p>
+                            <h2 class="price-text" style="font-size:20px;"> @ViewBag.userDetails.RechargePlans.RechargePlanName </h2>
+                            <p class="sub-text">
+                                Validity - @ViewBag.userDetails.RechargePlans.RechargePlanValidity Days
+                            </p>
+                        </div>
+                        <div class="col-md-1" style="border-left: 1px solid black; height: 100px;"></div>
+                        <div class="col-md-5">
+                            <p class="heading-text"> Money </p>
+                            <h2 class="price-text" style="font-size:20px;"> @ViewBag.userDetails.Wallet.Amount đ</h2>
+                            <p class="sub-text mb-4"> in your wallet. </p>
+                            <a class="button" asp-action="Index" asp-controller="Wallet">ADD MONEY</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mx-lg-5 Container3">
+                <div class="col-md-11 history">
+                    <div class="d-flex justify-content-between font-weight-bold">
+                        <p class="heading-text" style="font-size:28px;"> Recharge History </p>
+                        <h3>@userName</h3>
+                    </div>
+                    <div class="history-data">
+                        @foreach (var history in ViewBag.rechargeLogs)
+                        {
+                            <hr />
+                            <div class="row">
+                                <div class="col-md-9">
+                                    <i class="bi bi-bookmark-check-fill" style="color: #807D7D;"> Plan</i>
+                                    <p class="heading-text" style="font-size:20px;margin-top:-0em;color:black">
+                                        @history.RechargePlans.RechargePlanName
+                                    </p>
+                                    <p class="sub-text mt-3" style="font-size:16px;color:black;">Recharge on @history.RechargeDate</p>
+                                </div>
+                                <div class="col-md-3">
+                                    <p class="heading-text" style="font-size:20px;color:#027980">@history.RechargePlans.RechargePlanPrice đ</p>
+                                </div>
+                            </div>
+                            <div class="row" style="display: flex;">
+                                <div class="col-md-9">
+                                    <p style="color: #807D7D;">Validity</p>
+                                    <p>@history.RechargeValidity</p>
+                                </div>
+                                <div class="col-md-3">
+                                    <p style="color: #807D7D;">Provider</p>
+                                    <p>Unlimited</p>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="row mx-lg-5 Container2">
+                <div class="col-md-11 banner">
+                    <div class="row">
+                        <div class="col-md-6" style="padding:2em;">
+                            <h2 style="font-weight:bold">Easily Recharge Your Mobile Online.</h2>
+                            <p style="font-size:16px">We empower your phone with mobile recharge.</p>
+                            <button class="button">VIEW PLANS</button>
+                        </div>
+                        <div class="col-md-6"
+                             style="border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-top-left-radius: 0; border-bottom-left-radius: 0;background-image: url('https://storage.googleapis.com/production-payrup-assets/post/24-1638253509-3701-post.png'); background-repeat: no-repeat; background-size: cover;height:15em;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,26 @@
+﻿.form-register {
+    padding: 30px 0;
+}
+
+.title {
+    text-decoration: underline;
+}
+
+.label {
+    font-weight: 600;
+    font-size: large;
+}
+
+.but {
+    background-color: black;
+    color: white;
+}
+
+.reg {
+    color: black;
+    text-decoration: underline;
+}
+
+.field-validation-error {
+    color: red !important;
+}

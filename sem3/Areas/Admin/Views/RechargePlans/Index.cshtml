@@ -1,0 +1,60 @@
+﻿@model IEnumerable<sem3.Areas.Admin.Models.DataModels.RechargePlansModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>RechargePlans</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RechargePlanName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RechargePlanValidity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RechargePlanPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RechargePlanData)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceProvider)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RechargePlanName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RechargePlanValidity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RechargePlanPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RechargePlanData)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceProvider.ServiceName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.RechargePlanId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.RechargePlanId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.RechargePlanId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

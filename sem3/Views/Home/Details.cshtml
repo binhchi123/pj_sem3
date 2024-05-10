@@ -1,0 +1,79 @@
+﻿@model sem3.Areas.Admin.Models.DataModels.RechargePlansModel
+
+@{ 
+    ViewData["Title"] = "Details";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="~/css/details.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container col-md-7 details">
+        <div class="data">
+            <p>
+                <a href="/Home/Index">Home</a><i class="fas fa-arrow-right"></i><a href="">Mobile service</a><i class="fas fa-arrow-right"></i>
+                <a href="">Data package</a><i class="fas fa-arrow-right"></i><a href="" class="active">
+                    Package
+                    details:
+                </a>
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-10">
+                <div class="row mt-4">
+                    <div class="col-md-5">
+                        <div class="card">
+                            <div class="card-body row">
+                                <h5 class="card-title mr-3"><img src="~/image/icon-service.png" /></h5>
+                                <p class="card-text mt-2">@Model.RechargePlanName</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body row">
+                                <h5 class="card-title mr-3"><img src="~/image/icon-wallet.png" /></h5>
+                                <p class="card-text mt-2">@Model.RechargePlanPrice đ</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-body row">
+                                <h5 class="card-title mr-3"><img src="~/image/icon-calendar.png" /></h5>
+                                <p class="card-text mt-2">@Model.RechargePlanValidity day</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mt-5">
+                    <div class="card-header">
+                        <h4>Promotion</h4>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-title"><span class="detail-text">Price: </span> <span>@Model.RechargePlanPrice đ</span></p>
+                        <p class="card-text detail-text">Promotion</p>
+                        <p>
+                            - Get @Model.RechargePlanData GB high-speed data for usage within @Model.RechargePlanValidity days from the successful registration date.
+                        </p>
+                        <p>- Package Renewal: When the subscription period ends, the remaining data allowance will be carried over to the next cycle upon successful renewal.</p>
+                        <p>
+                            <span class="detail-text">Subscribe: </span>You can either press the "Subscribe" button on the service provider's website or compose a text message with the content "@Model.RechargePlanName" and send it to the number 191.</p>
+                        <p><span class="detail-text">Cancel the renewal: </span>Send a text message with the content "HUY @Model.RechargePlanName" to the number 191.</p>
+                        <p><span class="detail-text">Cancel the package: </span>You can compose a text message with the content "HUYDATA @Model.RechargePlanName" and send it to the number 191. If you receive a confirmation prompt, you can reply with "Y" to confirm the cancellation by sending it to 191.</p>
+                    </div>
+                </div>
+                <a asp-controller="Account" asp-action="Login" class="btn buy mt-4">Subscribe</a>
+            </div>
+            <div class="col-md-2">
+                <img src="~/image/detail.png" alt="">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,192 @@
+D:\ASP .NET Core\sem3\sem3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\ASP .NET Core\sem3\sem3\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ASP .NET Core\sem3\sem3\bin\Debug\netcoreapp2.1\sem3.deps.json
+D:\ASP .NET Core\sem3\sem3\bin\Debug\netcoreapp2.1\sem3.runtimeconfig.json
+D:\ASP .NET Core\sem3\sem3\bin\Debug\netcoreapp2.1\sem3.runtimeconfig.dev.json
+D:\ASP .NET Core\sem3\sem3\bin\Debug\netcoreapp2.1\sem3.dll
+D:\ASP .NET Core\sem3\sem3\bin\Debug\netcoreapp2.1\sem3.pdb
+D:\ASP .NET Core\sem3\sem3\bin\Debug\netcoreapp2.1\sem3.Views.dll
+D:\ASP .NET Core\sem3\sem3\bin\Debug\netcoreapp2.1\sem3.Views.pdb
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.csproj.AssemblyReference.cache
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.AssemblyInfoInputs.cache
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.AssemblyInfo.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.RazorAssemblyInfo.cache
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.RazorAssemblyInfo.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.TagHelpers.input.cache
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.TagHelpers.output.cache
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.RazorCoreGenerate.cache
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.RazorTargetAssemblyInfo.cache
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.RazorTargetAssemblyInfo.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.Views.pdb
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.dll
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.pdb
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.genruntimeconfig.cache
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\sem3.csproj.CopyComplete
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Auth\Signin.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\ASP .NET Core\sem3 - Demo-method\sem3\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ASP .NET Core\sem3 - Demo-method\sem3\bin\Debug\netcoreapp2.1\sem3.deps.json
+D:\ASP .NET Core\sem3 - Demo-method\sem3\bin\Debug\netcoreapp2.1\sem3.runtimeconfig.json
+D:\ASP .NET Core\sem3 - Demo-method\sem3\bin\Debug\netcoreapp2.1\sem3.runtimeconfig.dev.json
+D:\ASP .NET Core\sem3 - Demo-method\sem3\bin\Debug\netcoreapp2.1\sem3.dll
+D:\ASP .NET Core\sem3 - Demo-method\sem3\bin\Debug\netcoreapp2.1\sem3.pdb
+D:\ASP .NET Core\sem3 - Demo-method\sem3\bin\Debug\netcoreapp2.1\sem3.Views.dll
+D:\ASP .NET Core\sem3 - Demo-method\sem3\bin\Debug\netcoreapp2.1\sem3.Views.pdb
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.csproj.AssemblyReference.cache
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.AssemblyInfoInputs.cache
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.AssemblyInfo.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.RazorAssemblyInfo.cache
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.RazorAssemblyInfo.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.TagHelpers.input.cache
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.TagHelpers.output.cache
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.RazorCoreGenerate.cache
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Auth\Signin.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.RazorTargetAssemblyInfo.cache
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.RazorTargetAssemblyInfo.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.Views.pdb
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.dll
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.pdb
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.genruntimeconfig.cache
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\sem3.csproj.CopyComplete
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\UserDetail\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Help.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3 - Demo-method\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Wallet\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Bill.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Help.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\UserDetail\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Wallet\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\ASP .NET Core\sem3_main\sem3\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ASP .NET Core\sem3_main\sem3\bin\Debug\netcoreapp2.1\sem3.deps.json
+D:\ASP .NET Core\sem3_main\sem3\bin\Debug\netcoreapp2.1\sem3.runtimeconfig.json
+D:\ASP .NET Core\sem3_main\sem3\bin\Debug\netcoreapp2.1\sem3.runtimeconfig.dev.json
+D:\ASP .NET Core\sem3_main\sem3\bin\Debug\netcoreapp2.1\sem3.dll
+D:\ASP .NET Core\sem3_main\sem3\bin\Debug\netcoreapp2.1\sem3.pdb
+D:\ASP .NET Core\sem3_main\sem3\bin\Debug\netcoreapp2.1\sem3.Views.dll
+D:\ASP .NET Core\sem3_main\sem3\bin\Debug\netcoreapp2.1\sem3.Views.pdb
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.csproj.AssemblyReference.cache
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.AssemblyInfoInputs.cache
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.AssemblyInfo.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.RazorAssemblyInfo.cache
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.RazorAssemblyInfo.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.TagHelpers.input.cache
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.TagHelpers.output.cache
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.RazorCoreGenerate.cache
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Auth\Signin.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargeLogs\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\RechargePlans\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Bill.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Help.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\UserDetail\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\Wallet\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.RazorTargetAssemblyInfo.cache
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.RazorTargetAssemblyInfo.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.Views.pdb
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.dll
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.pdb
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.genruntimeconfig.cache
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\sem3.csproj.CopyComplete
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ContactModels\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ContactModels\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ContactModels\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ContactModels\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ContactModels\Index.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Contact\Create.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Contact\Delete.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Contact\Details.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Contact\Edit.cshtml.g.cs
+D:\ASP .NET Core\sem3_main\sem3\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Contact\Index.cshtml.g.cs

@@ -1,0 +1,22 @@
+﻿.form-login {
+    padding: 80px 0;
+}
+
+.title {
+    text-decoration: underline;
+}
+
+label {
+    font-weight: 600;
+    font-size: large;
+}
+
+.but {
+    background-color: black;
+    color: white;
+}
+
+.reg {
+    color: black;
+    text-decoration: underline;
+}

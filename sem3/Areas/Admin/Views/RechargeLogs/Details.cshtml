@@ -1,0 +1,37 @@
+﻿@model sem3.Areas.Admin.Models.DataModels.RechargeLogsModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>RechargeLogsModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RechargePlanId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RechargePlanId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.RechargeDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RechargeDate)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.RechargeLogId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

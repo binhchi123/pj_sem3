@@ -1,0 +1,25 @@
+﻿.details {
+    padding: 50px 0;
+}
+
+.data a {
+    color: black;
+    text-decoration: none;
+    padding: 0 30px;
+}
+
+.active {
+    color: rgb(238, 0, 51) !important;
+}
+
+.detail-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.buy {
+    padding: 7px 100px;
+    background-color: rgb(238, 0, 51);
+    color: white !important;
+    text-decoration: none !important; 
+}

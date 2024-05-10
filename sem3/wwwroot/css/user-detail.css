@@ -1,0 +1,91 @@
+﻿.left-block {
+  margin-left: 200px; 
+}
+
+.Container1 {
+    margin-top: 3em;
+    height: 15em;
+    justify-content: space-around;
+}
+
+.Container2 {
+    margin-top: 3em;
+}
+
+.Container3 {
+    margin-top: 3em;
+    height: 20em;
+}
+
+.banner {
+    background-color: #CBF1F5;
+    margin-left: 3em;
+    border-radius: 25px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.Wallet {
+    border-radius: 20px;
+    padding: 2em;
+    background: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.heading-text {
+    font-weight: 700;
+    color: #807D7D;
+}
+
+.price-text {
+    font-weight: bold;
+}
+
+.sub-text {
+    margin-top: -0.5em;
+    color: #807D7D;
+    font-size: 12px;
+}
+
+.button {
+    background-color: #000 !important;
+    color: #fff !important;
+    font-size: 12px;
+    padding: 1em 2em 1em 2em;
+    border-radius: 10px;
+    margin-top: 2em;
+    font-weight: 500;
+}
+
+.history {
+    height: 500px;
+    background-color: white;
+    padding: 2em;
+    margin-left: 3em;
+    border-radius: 25px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.history-data {
+    height: 250px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.MyPlans {
+    background: white;
+    border-radius: 20px;
+    padding: 2em;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.cont {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.box {
+    position: absolute;
+    top: 0;
+    right: 0;
+}

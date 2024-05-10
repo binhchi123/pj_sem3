@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Wallet";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+
+<body>
+    <style>
+        .form-wallet {
+            padding: 120px 0;
+        }
+
+        .title {
+            text-decoration: underline;
+        }
+
+        label {
+            font-weight: 600;
+            font-size: large;
+        }
+
+        .but {
+            background-color: black;
+            color: white;
+        }
+    </style>
+    <div class="container col-lg-4 form-wallet">
+        <form method="post" asp-action="Index" asp-controller="Wallet">
+            <div>
+                <h1 class="title">Import info</h1>
+                <div class="flex flex-col gap-3">
+                    <div class="form-group flex flex-col gap-3">
+                        <label for="amount">Amount</label>
+                        <input type="text" class="form-control" id="amount" name="Amount" placeholder="amount">
+                    </div>
+                    <button type="submit" class="form-control but">Recharge</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
